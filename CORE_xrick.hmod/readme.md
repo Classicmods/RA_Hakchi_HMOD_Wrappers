@@ -1,0 +1,32 @@
+-----------------------
+Name: Xrick
+Creator: Libretro
+Category: Official RetroArch Cores
+-----------------------
+
+=== Xrick Core for RetroArch ===
+
+Module adds support for Xrick
+
+Available executables and arguments to run Core:
+- /bin/xrick <rom> <clover_args>
+
+Core by Libretro
+
+Libretro Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://discordapp.com/invite/8gygsrw)
+
+-----------------------
+
+display_name = "Rick Dangerous (XRick)"
+authors = ""
+supported_extensions = "zip"
+corename = "XRick"
+categories = "Game"
+database = "Rick Dangerous"
+systemname = "Rick Dangerous Game Engine"
+systemid = "xrick"
+license = "GPLv3"
+permissions = ""
+display_version = "1.0.0.6"
+supports_no_game = "false"
+notes = "(!) XRick requires data ROM 'data.zip'.|(!) Load Content 'data.zip'"
