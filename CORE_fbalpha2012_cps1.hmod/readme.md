@@ -1,12 +1,12 @@
 -----------------------
-Name: Fbalpha2012_cps1
+Name: Arcade (FB Alpha 2012 CPS-1)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Fbalpha2012_cps1 Core for RetroArch ===
+=== FB Alpha 2012 CPS-1 Core for RetroArch ===
 
-Module adds support for Fbalpha2012_cps1
+Module adds support for CP System 1
 
 Available executables and arguments to run Core:
 - /bin/cps1 <rom> <clover_args>

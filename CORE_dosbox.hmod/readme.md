@@ -1,12 +1,12 @@
 -----------------------
-Name: Dosbox
+Name: DOS (DOSBox)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Dosbox Core for RetroArch ===
+=== DOSBox Core for RetroArch ===
 
-Module adds support for Dosbox
+Module adds support for DOS (PC)
 
 Available executables and arguments to run Core:
 - /bin/dosbox <rom> <clover_args>

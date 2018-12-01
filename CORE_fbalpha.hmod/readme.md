@@ -1,12 +1,12 @@
 -----------------------
-Name: Fbalpha
+Name: Arcade (FB Alpha)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Fbalpha Core for RetroArch ===
+=== FB Alpha Core for RetroArch ===
 
-Module adds support for Fbalpha
+Module adds support for Arcade (various)
 
 Available executables and arguments to run Core:
 - /bin/fba <rom> <clover_args>

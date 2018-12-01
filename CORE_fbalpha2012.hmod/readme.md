@@ -1,12 +1,12 @@
 -----------------------
-Name: Fbalpha2012
+Name: Arcade (FB Alpha 2012)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Fbalpha2012 Core for RetroArch ===
+=== FB Alpha 2012 Core for RetroArch ===
 
-Module adds support for Fbalpha2012
+Module adds support for Arcade (various)
 
 Available executables and arguments to run Core:
 - /bin/fba <rom> <clover_args>

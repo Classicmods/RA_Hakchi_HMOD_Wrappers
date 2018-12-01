@@ -1,12 +1,12 @@
 -----------------------
-Name: Fbalpha2012_cps3
+Name: Arcade (FB Alpha 2012 CPS-3)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Fbalpha2012_cps3 Core for RetroArch ===
+=== FB Alpha 2012 CPS-3 Core for RetroArch ===
 
-Module adds support for Fbalpha2012_cps3
+Module adds support for CP System 3
 
 Available executables and arguments to run Core:
 - /bin/cps3 <rom> <clover_args>

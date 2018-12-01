@@ -1,12 +1,12 @@
 -----------------------
-Name: Fbalpha2012_neogeo
+Name: Arcade (FB Alpha 2012 Neo Geo)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Fbalpha2012_neogeo Core for RetroArch ===
+=== FB Alpha 2012 Neo Geo Core for RetroArch ===
 
-Module adds support for Fbalpha2012_neogeo
+Module adds support for Neo Geo Arcade
 
 Available executables and arguments to run Core:
 - /bin/neo <rom> <clover_args>

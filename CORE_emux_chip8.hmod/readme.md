@@ -1,12 +1,12 @@
 -----------------------
-Name: Emux_chip8
+Name: CHIP-8 (Emux CHIP-8)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Emux_chip8 Core for RetroArch ===
+=== Emux CHIP-8 Core for RetroArch ===
 
-Module adds support for Emux_chip8
+Module adds support for CHIP-8
 
 Available executables and arguments to run Core:
 - /bin/ch8 <rom> <clover_args>
