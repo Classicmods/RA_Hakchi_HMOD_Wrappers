@@ -1,12 +1,12 @@
 -----------------------
-Name: Crocods
+Name: Amstrad - CPC (CrocoDS)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
 === Crocods Core for RetroArch ===
 
-Module adds support for Crocods
+Module adds support for Amstrad - CPC
 
 Available executables and arguments to run Core:
 - /bin/crocods <rom> <clover_args>

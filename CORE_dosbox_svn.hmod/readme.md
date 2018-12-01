@@ -1,12 +1,12 @@
 -----------------------
-Name: Dosbox_svn
+Name: DOS (DOSBox-SVN)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Dosbox_svn Core for RetroArch ===
+=== DOSBox Core for RetroArch ===
 
-Module adds support for Dosbox_svn
+Module adds support for DOS (PC)
 
 Available executables and arguments to run Core:
 - /bin/dosbox <rom> <clover_args>

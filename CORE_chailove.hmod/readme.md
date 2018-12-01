@@ -6,7 +6,7 @@ Category: Official RetroArch Cores
 
 === Chailove Core for RetroArch ===
 
-Module adds support for Chailove
+Module adds support for ChaiLove game engine
 
 Available executables and arguments to run Core:
 - /bin/chailove <rom> <clover_args>

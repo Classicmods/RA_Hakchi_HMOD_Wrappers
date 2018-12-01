@@ -1,10 +1,10 @@
 -----------------------
-Name: Bnes
+Name: bNES
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Bnes Core for RetroArch ===
+=== bNES Core for RetroArch ===
 
 Module adds support for Nintendo Entertainment System
 

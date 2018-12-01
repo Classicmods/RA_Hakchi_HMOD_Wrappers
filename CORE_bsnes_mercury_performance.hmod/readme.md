@@ -1,12 +1,12 @@
 -----------------------
-Name: Bsnes_mercury_performance
+Name: bSNES-mercury (Performance)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Bsnes_mercury_performance Core for RetroArch ===
+=== bSNES-mercury (Performance)Core for RetroArch ===
 
-Module adds support for Bsnes_mercury_performance
+Module adds support for SNES / Super Famicom
 
 Available executables and arguments to run Core:
 - /bin/bsnes <rom> <clover_args>

@@ -1,12 +1,12 @@
 -----------------------
-Name: Cannonball
+Name: Cannonball (SEGA OutRun)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
 === Cannonball Core for RetroArch ===
 
-Module adds support for Cannonball
+Module adds support for SEGA OutRun
 
 Available executables and arguments to run Core:
 - /bin/cannonball <rom> <clover_args>

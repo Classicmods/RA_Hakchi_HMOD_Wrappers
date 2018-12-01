@@ -1,12 +1,12 @@
 -----------------------
-Name: Bluemsx
+Name: MSX/SVI/ColecoVision/SG-1000 (blueMSX)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Bluemsx Core for RetroArch ===
+=== blueMSX Core for RetroArch ===
 
-Module adds support for Bluemsx
+Module adds support for MSX/SVI/ColecoVision/SG-1000 (blueMSX)
 
 Available executables and arguments to run Core:
 - /bin/bluemsx <rom> <clover_args>

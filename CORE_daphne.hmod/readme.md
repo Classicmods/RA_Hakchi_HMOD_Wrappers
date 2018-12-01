@@ -1,12 +1,12 @@
 -----------------------
-Name: Daphne
+Name: Daphne (Laserdisc Arcade)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
 === Daphne Core for RetroArch ===
 
-Module adds support for Daphne
+Module adds support for Laserdisc Arcade
 
 Available executables and arguments to run Core:
 - /bin/daphne <rom> <clover_args>

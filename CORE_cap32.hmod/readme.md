@@ -1,12 +1,12 @@
 -----------------------
-Name: Caprice32
+Name: Amstrad - CPC (Caprice32)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
 === Caprice32 Core for RetroArch ===
 
-Module adds support for Caprice32
+Module adds support for Amstrad - CPC
 
 Available executables and arguments to run Core:
 - /bin/cap32 <rom> <clover_args>

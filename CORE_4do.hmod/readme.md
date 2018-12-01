@@ -1,12 +1,12 @@
 -----------------------
-Name: 4do
+Name: The 3DO Company - 3DO (4DO)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== 4do Core for RetroArch ===
+=== 4DO Core for RetroArch ===
 
-Module adds support for 4do
+Module adds support for the Panasonic 3DO
 
 Available executables and arguments to run Core:
 - /bin/4do <rom> <clover_args>

@@ -1,12 +1,12 @@
 -----------------------
-Name: Atari800
+Name: Atari - 5200 (Atari800)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
 === Atari800 Core for RetroArch ===
 
-Module adds support for Atari800
+Module adds support for Atari - 5200 (Atari800)
 
 Available executables and arguments to run Core:
 - /bin/a52 <rom> <clover_args>

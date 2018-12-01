@@ -1,12 +1,12 @@
 -----------------------
-Name: Eighty-one
+Name: Sinclair - ZX 81 (EightyOne)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Eighty-one Core for RetroArch ===
+=== 81 Core for RetroArch ===
 
-Module adds support for Eighty-one
+Module adds support for Sinclair ZX 81
 
 Available executables and arguments to run Core:
 - /bin/81 <rom> <clover_args>
