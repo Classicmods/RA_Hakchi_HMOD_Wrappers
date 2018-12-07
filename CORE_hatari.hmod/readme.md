@@ -1,5 +1,5 @@
 -----------------------
-Name: Hatari
+Name: Atari - ST/STE/TT/Falcon (Hatari)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------

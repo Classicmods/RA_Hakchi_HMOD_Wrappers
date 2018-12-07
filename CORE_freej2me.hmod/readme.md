@@ -6,7 +6,7 @@ Category: Official RetroArch Cores
 
 === Freej2me Core for RetroArch ===
 
-Module adds support for Freej2me
+Module adds support for Java Emulator
 
 Available executables and arguments to run Core:
 - /bin/freej2me <rom> <clover_args>

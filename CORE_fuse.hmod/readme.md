@@ -1,12 +1,12 @@
 -----------------------
-Name: Fuse
+Name: ZX Spectrum (Fuse)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
 === Fuse Core for RetroArch ===
 
-Module adds support for Fuse
+Module adds support for ZX Spectrum
 
 Available executables and arguments to run Core:
 - /bin/fuse <rom> <clover_args>

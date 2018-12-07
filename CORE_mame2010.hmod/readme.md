@@ -1,12 +1,12 @@
 -----------------------
-Name: Mame2010
+Name: Arcade (MAME 2010)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Mame2010 Core for RetroArch ===
+=== MAME 2010 Core for RetroArch ===
 
-Module adds support for Mame2010
+Module adds support for Arcade (Various)
 
 Available executables and arguments to run Core:
 - /bin/mame2010 <rom> <clover_args>

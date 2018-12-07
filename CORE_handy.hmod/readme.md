@@ -1,12 +1,12 @@
 -----------------------
-Name: Handy
+Name: Atari - Lynx (Handy)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
 === Handy Core for RetroArch ===
 
-Module adds support for Handy
+Module adds support for Atari Lynx
 
 Available executables and arguments to run Core:
 - /bin/handy <rom> <clover_args>

@@ -1,12 +1,12 @@
 -----------------------
-Name: Gearboy
+Name: Nintendo - Game Boy / Color (Gearboy)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
 === Gearboy Core for RetroArch ===
 
-Module adds support for Gearboy
+Module adds support for Nintendo Game Boy / Game Boy Colour
 
 Available executables and arguments to run Core:
 - /bin/gearboy <rom> <clover_args>

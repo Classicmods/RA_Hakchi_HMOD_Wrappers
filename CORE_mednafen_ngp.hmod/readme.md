@@ -1,12 +1,12 @@
 -----------------------
-Name: Mednafen_ngp
+Name: SNK - Neo Geo Pocket / Color (Beetle NeoPop)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Mednafen_ngp Core for RetroArch ===
+=== Mednafen NGP Core for RetroArch ===
 
-Module adds support for Mednafen_ngp
+Module adds support for Neo Geo Pocket / Color
 
 Available executables and arguments to run Core:
 - /bin/ngc <rom> <clover_args>

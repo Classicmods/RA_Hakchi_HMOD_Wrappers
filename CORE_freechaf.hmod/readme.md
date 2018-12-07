@@ -1,12 +1,12 @@
 -----------------------
-Name: Freechaf
+Name: Fairchild ChannelF (Freechaf)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
 === Freechaf Core for RetroArch ===
 
-Module adds support for Freechaf
+Module adds support for Fairchild ChannelF
 
 Available executables and arguments to run Core:
 - /bin/freechaf <rom> <clover_args>

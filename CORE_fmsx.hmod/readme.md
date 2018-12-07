@@ -1,12 +1,12 @@
 -----------------------
-Name: Fmsx
+Name: Microsoft - MSX (fMSX)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Fmsx Core for RetroArch ===
+=== fMSX Core for RetroArch ===
 
-Module adds support for Fmsx
+Module adds support for MSX and MSX2
 
 Available executables and arguments to run Core:
 - /bin/fmsx <rom> <clover_args>

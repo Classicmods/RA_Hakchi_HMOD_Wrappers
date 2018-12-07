@@ -1,12 +1,12 @@
 -----------------------
-Name: Ffmpeg
+Name: FFmpeg
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Ffmpeg Core for RetroArch ===
+=== FFmpeg Core for RetroArch ===
 
-Module adds support for Ffmpeg
+Module adds support for FFmpeg (Media Player)
 
 Available executables and arguments to run Core:
 - /bin/ffmpeg <rom> <clover_args>

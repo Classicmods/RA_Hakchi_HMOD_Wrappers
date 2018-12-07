@@ -1,12 +1,12 @@
 -----------------------
-Name: Gpsp
+Name: Nintendo - Game Boy Advance (gpSP)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Gpsp Core for RetroArch ===
+=== gpSP Core for RetroArch ===
 
-Module adds support for Gpsp
+Module adds support for Game Boy Advance
 
 Available executables and arguments to run Core:
 - /bin/gpsp <rom> <clover_args>

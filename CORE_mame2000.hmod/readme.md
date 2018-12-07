@@ -1,12 +1,12 @@
 -----------------------
-Name: Mame2000
+Name: MAME 2000
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Mame2000 Core for RetroArch ===
+=== MAME 2000 Core for RetroArch ===
 
-Module adds support for Mame2000
+Module adds support for Arcade (Various)
 
 Available executables and arguments to run Core:
 - /bin/mame2000 <rom> <clover_args>

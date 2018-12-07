@@ -1,12 +1,12 @@
 -----------------------
-Name: Gw
+Name: Handheld Electronic (GW)"
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Gw Core for RetroArch ===
+=== GW Core for RetroArch ===
 
-Module adds support for Gw
+Module adds support for Game & Watch
 
 Available executables and arguments to run Core:
 - /bin/gw <rom> <clover_args>

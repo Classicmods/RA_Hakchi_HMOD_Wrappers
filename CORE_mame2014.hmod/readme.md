@@ -1,12 +1,12 @@
 -----------------------
-Name: Mame2014
+Name: Arcade (MAME 2014)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Mame2014 Core for RetroArch ===
+=== MAME 2014 Core for RetroArch ===
 
-Module adds support for Mame2014
+Module adds support for Arcade (Various)
 
 Available executables and arguments to run Core:
 - /bin/mame2014 <rom> <clover_args>

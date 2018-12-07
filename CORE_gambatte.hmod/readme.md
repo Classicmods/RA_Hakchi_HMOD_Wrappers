@@ -1,15 +1,15 @@
 -----------------------
-Name: Gambatte
+Name: Nintendo - Game Boy / Color (Gambatte)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
 === Gambatte Core for RetroArch ===
 
-Module adds support for Gambatte
+Module adds support for Nintendo Game Boy / Game Boy Colour
 
 Available executables and arguments to run Core:
-- /bin/gambatte <rom> <clover_args>
+- /bin/gambatte <rom> <clover_args> 
 - /bin/gb <rom> <clover_args>
 - /bin/gbc <rom> <clover_args>
 

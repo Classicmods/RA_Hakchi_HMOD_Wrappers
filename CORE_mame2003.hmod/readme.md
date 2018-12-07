@@ -1,12 +1,12 @@
 -----------------------
-Name: Mame2003
+Name: Arcade (MAME 2003)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Mame2003 Core for RetroArch ===
+=== MAME 2003 Core for RetroArch ===
 
-Module adds support for Mame2003
+Module adds support for Arcade (various)
 
 Available executables and arguments to run Core:
 - /bin/mame2003 <rom> <clover_args>

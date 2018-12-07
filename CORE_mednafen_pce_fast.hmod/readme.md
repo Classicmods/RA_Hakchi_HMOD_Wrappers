@@ -1,12 +1,12 @@
 -----------------------
-Name: Mednafen_pce_fast
+Name: NEC - PC Engine / CD (Beetle PCE FAST)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Mednafen_pce_fast Core for RetroArch ===
+=== Mednafen PCE FAST Core for RetroArch ===
 
-Module adds support for Mednafen_pce_fast
+Module adds support for NEC - PC Engine / CD 
 
 Available executables and arguments to run Core:
 - /bin/pce <rom> <clover_args>

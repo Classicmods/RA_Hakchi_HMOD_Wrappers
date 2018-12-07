@@ -1,12 +1,12 @@
 -----------------------
-Name: Lutro
+Name: Lua Engine (Lutro)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
 === Lutro Core for RetroArch ===
 
-Module adds support for Lutro
+Module adds support for Lua Game Engine
 
 Available executables and arguments to run Core:
 - /bin/lutro <rom> <clover_args>

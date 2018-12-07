@@ -1,12 +1,12 @@
 -----------------------
-Name: Genesis_plus_gx
+Name: Sega - MS/GG/MD/CD (Genesis Plus GX)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Genesis_plus_gx Core for RetroArch ===
+=== Genesis Plus GX Core for RetroArch ===
 
-Module adds support for Genesis_plus_gx
+Module adds support for Sega - Game Gear|Sega - Master System - Mark III|Sega - Mega-CD - Sega CD|Sega - Mega Drive - Genesis|Sega - PICO|Sega - SG-1000
 
 Available executables and arguments to run Core:
 - /bin/genesis-plus-gx <rom> <clover_args>

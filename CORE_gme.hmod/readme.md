@@ -1,12 +1,12 @@
 -----------------------
-Name: Gme
+Name: Game Music Emulator
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Gme Core for RetroArch ===
+=== GME Core for RetroArch ===
 
-Module adds support for Gme
+Module adds support for Game Music Player
 
 Available executables and arguments to run Core:
 - /bin/gme <rom> <clover_args>

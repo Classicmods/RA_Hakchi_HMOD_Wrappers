@@ -1,12 +1,12 @@
 -----------------------
-Name: Mednafen_gba
+Name: Nintendo - Game Boy Advance (Beetle GBA)
 Creator: Libretro
 Category: Official RetroArch Cores
 -----------------------
 
-=== Mednafen_gba Core for RetroArch ===
+=== Mednafen GBA Core for RetroArch ===
 
-Module adds support for Mednafen_gba
+Module adds support for Nintendo - Game Boy Advance
 
 Available executables and arguments to run Core:
 - /bin/mednafen-gba <rom> <clover_args>
