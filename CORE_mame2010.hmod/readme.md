@@ -1,19 +1,22 @@
 -----------------------
-Name: Arcade (MAME 2010)
+Name: Mame2010
 Creator: Libretro
-Category: Official RetroArch Cores
+Category: Libretro RetroArch Cores
 -----------------------
+![Libretro Cores](https://modmyclassic.com/wp-content/uploads/2020/06/LibRetroNeoCoresSmall.png)
 
-=== MAME 2010 Core for RetroArch ===
+=== Mame2010 Core for RetroArch ===
 
-Module adds support for Arcade (Various)
+Module adds support for Mame2010
 
 Available executables and arguments to run Core:
 - /bin/mame2010 <rom> <clover_args>
 
+These cores are automatically built against the latest LibRetro Source code. You can find nightly builds and stable builds [here](https://modmyclassic.com/hmodcores)
+
 Core by Libretro
 
-Libretro Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://discordapp.com/invite/8gygsrw)
+Libretro 'Neo' Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://modmyclassic.com/discord)
 
 -----------------------
 
@@ -31,3 +34,4 @@ permissions = ""
 display_version = "0.139"
 supports_no_game = "false"
 notes = "(!) The BIOS files must be inside the ROM directory.|"
+description = "'MAME 2010' is compatible with MAME 0.139 ROM sets."

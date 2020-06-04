@@ -1,21 +1,24 @@
 -----------------------
-Name: Nintendo - Game Boy / Color (Gambatte)
+Name: Gambatte
 Creator: Libretro
-Category: Official RetroArch Cores
+Category: Libretro RetroArch Cores
 -----------------------
+![Libretro Cores](https://modmyclassic.com/wp-content/uploads/2020/06/LibRetroNeoCoresSmall.png)
 
 === Gambatte Core for RetroArch ===
 
-Module adds support for Nintendo Game Boy / Game Boy Colour
+Module adds support for Gambatte
 
 Available executables and arguments to run Core:
-- /bin/gambatte <rom> <clover_args> 
+- /bin/gambatte <rom> <clover_args>
 - /bin/gb <rom> <clover_args>
 - /bin/gbc <rom> <clover_args>
 
+These cores are automatically built against the latest LibRetro Source code. You can find nightly builds and stable builds [here](https://modmyclassic.com/hmodcores)
+
 Core by Libretro
 
-Libretro Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://discordapp.com/invite/8gygsrw)
+Libretro 'Neo' Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://modmyclassic.com/discord)
 
 -----------------------
 

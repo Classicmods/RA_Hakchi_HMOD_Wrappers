@@ -1,35 +1,41 @@
 -----------------------
-Name: bSNES-mercury (Performance)
+Name: Bsnes_mercury_performance
 Creator: Libretro
-Category: Official RetroArch Cores
+Category: Libretro RetroArch Cores
 -----------------------
+![Libretro Cores](https://modmyclassic.com/wp-content/uploads/2020/06/LibRetroNeoCoresSmall.png)
 
-=== bSNES-mercury (Performance)Core for RetroArch ===
+=== Bsnes_mercury_performance Core for RetroArch ===
 
-Module adds support for SNES / Super Famicom
+Module adds support for Bsnes_mercury_performance
 
 Available executables and arguments to run Core:
 - /bin/bsnes <rom> <clover_args>
 
+These cores are automatically built against the latest LibRetro Source code. You can find nightly builds and stable builds [here](https://modmyclassic.com/hmodcores)
+
 Core by Libretro
 
-Libretro Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://discordapp.com/invite/8gygsrw)
+Libretro 'Neo' Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://modmyclassic.com/discord)
 
 -----------------------
 
-display_name = "Nintendo - SNES / Famicom (bsnes-mercury Performance)"
-authors = "byuu|Alcaro"
-supported_extensions = "sfc|smc|bml"
-corename = "bsnes-mercury Performance"
-manufacturer = "Nintendo"
+# Software Information
+display_name = "Nintendo - SNES / SFC (bsnes-mercury Performance)"
 categories = "Emulator"
-systemname = "Super Nintendo Entertainment System"
-systemid = "super_nes"
-database = "Nintendo - Super Nintendo Entertainment System|Nintendo - Super Nintendo Entertainment System Hacks|Nintendo - Sufami Turbo"
+authors = "byuu|Alcaro"
+corename = "bsnes-mercury Performance"
+supported_extensions = "sfc|smc|bml"
 license = "GPLv3"
 permissions = ""
 display_version = "v094 (Mercury Performance)"
-supports_no_game = "false"
+
+# Hardware Information
+manufacturer = "Nintendo"
+systemname = "Super Nintendo Entertainment System"
+systemid = "super_nes"
+
+# BIOS / Firmware
 firmware_count = 17
 firmware0_desc = "dsp1.data.rom"
 firmware0_path = "dsp1.data.rom"
@@ -83,3 +89,19 @@ firmware16_desc = "sgb.boot.rom (SGB Boot Image)"
 firmware16_path = "sgb.boot.rom"
 firmware16_opt = "true"
 notes = "[1] bsnes-mercury Performance uses split ROMS for special chip games.|[*] Notable DSP1/DSP1B Games: Super Mario Kart,  Pilotwings|[*] Notable DSP2 Games: Dungeon Master|[*] Notable DSP3 Games: SD Gundam GX|[*] Notable DSP4 Games: Top Gear 3000|[2] Emulation for Cx4 games is broken."
+
+# Libretro Features
+savestate = "true"
+savestate_features = "serialized"
+cheats = "true"
+input_descriptors = "true"
+memory_descriptors = "true"
+libretro_saves = "true"
+core_options = "true"
+core_options_version = "1.0"
+load_subsystem = "true"
+supports_no_game = "false"
+database = "Nintendo - Super Nintendo Entertainment System|Nintendo - Super Nintendo Entertainment System Hacks|Nintendo - Sufami Turbo|Nintendo - Satellaview"
+hw_render = "false"
+needs_fullpath = "false"
+disk_control = "false"

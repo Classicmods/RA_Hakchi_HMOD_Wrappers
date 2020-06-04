@@ -1,23 +1,26 @@
 -----------------------
-Name: Nintendo - SNES / Famicom (Beetle bsnes)
+Name: Mednafen_snes
 Creator: Libretro
-Category: Official RetroArch Cores
+Category: Libretro RetroArch Cores
 -----------------------
+![Libretro Cores](https://modmyclassic.com/wp-content/uploads/2020/06/LibRetroNeoCoresSmall.png)
 
-=== Mednafen SNES Core for RetroArch ===
+=== Mednafen_snes Core for RetroArch ===
 
-Module adds support for SNES / Super Famicom
+Module adds support for Mednafen_snes
 
 Available executables and arguments to run Core:
 - /bin/mednafen-snes <rom> <clover_args>
 
+These cores are automatically built against the latest LibRetro Source code. You can find nightly builds and stable builds [here](https://modmyclassic.com/hmodcores)
+
 Core by Libretro
 
-Libretro Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://discordapp.com/invite/8gygsrw)
+Libretro 'Neo' Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://modmyclassic.com/discord)
 
 -----------------------
 
-display_name = "Nintendo - SNES / Famicom (Beetle bsnes)"
+display_name = "Nintendo - SNES / SFC (Beetle bsnes)"
 authors = "byuu|Mednafen Team"
 supported_extensions = "smc|fig|bs|st|sfc"
 corename = "Beetle bsnes"

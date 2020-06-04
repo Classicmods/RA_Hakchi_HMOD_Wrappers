@@ -1,21 +1,24 @@
 -----------------------
-Name: Arcade (MAME 2003)
+Name: Mame2003
 Creator: Libretro
-Category: Official RetroArch Cores
+Category: Libretro RetroArch Cores
 -----------------------
+![Libretro Cores](https://modmyclassic.com/wp-content/uploads/2020/06/LibRetroNeoCoresSmall.png)
 
-=== MAME 2003 Core for RetroArch ===
+=== Mame2003 Core for RetroArch ===
 
-Module adds support for Arcade (various)
+Module adds support for Mame2003
 
 Available executables and arguments to run Core:
 - /bin/mame2003 <rom> <clover_args>
 - /bin/mame2003-standard <rom> <clover_args>
 - /bin/mame2003-vector <rom> <clover_args>
 
+These cores are automatically built against the latest LibRetro Source code. You can find nightly builds and stable builds [here](https://modmyclassic.com/hmodcores)
+
 Core by Libretro
 
-Libretro Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://discordapp.com/invite/8gygsrw)
+Libretro 'Neo' Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://modmyclassic.com/discord)
 
 -----------------------
 
@@ -33,3 +36,4 @@ permissions = ""
 display_version = "0.78"
 supports_no_game = "false"
 notes = "(!) The BIOS files must be inside the ROM directory.|"
+description = "'MAME 2003' is compatible with MAME 0.78 ROM sets."

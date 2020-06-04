@@ -1,8 +1,9 @@
 -----------------------
 Name: O2em
 Creator: Libretro
-Category: Official RetroArch Cores
+Category: Libretro RetroArch Cores
 -----------------------
+![Libretro Cores](https://modmyclassic.com/wp-content/uploads/2020/06/LibRetroNeoCoresSmall.png)
 
 === O2em Core for RetroArch ===
 
@@ -11,9 +12,11 @@ Module adds support for O2em
 Available executables and arguments to run Core:
 - /bin/o2em <rom> <clover_args>
 
+These cores are automatically built against the latest LibRetro Source code. You can find nightly builds and stable builds [here](https://modmyclassic.com/hmodcores)
+
 Core by Libretro
 
-Libretro Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://discordapp.com/invite/8gygsrw)
+Libretro 'Neo' Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://modmyclassic.com/discord)
 
 -----------------------
 
@@ -43,4 +46,4 @@ firmware2_opt = "false"
 firmware3_desc = "jopac.bin (Videopac+ French BIOS - G7400 model)"
 firmware3_path = "jopac.bin"
 firmware3_opt = "false"
-notes = "(!) o2rom.bin (md5): 562d5ebf9e030a40d6fabfc2f33139fd|(!) bios_c52.bin (md5): f1071cdb0b6b10dde94d3bc8a6146387|(!) bios_g7400.bin (md5): c500ff71236068e0dc0d0603d265ae76|(!)bios_jopac.bin (md5): 279008e4a0db2dc5f1c048853b033828"
+notes = "(!) o2rom.bin (md5): 562d5ebf9e030a40d6fabfc2f33139fd|(!) c52.bin (md5): f1071cdb0b6b10dde94d3bc8a6146387|(!) g7400.bin (md5): c500ff71236068e0dc0d0603d265ae76|(!) jopac.bin (md5): 279008e4a0db2dc5f1c048853b033828"

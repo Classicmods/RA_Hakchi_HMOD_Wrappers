@@ -1,35 +1,23 @@
 -----------------------
-Name: Arcade (FB Alpha)
+Name: Fbalpha
 Creator: Libretro
-Category: Official RetroArch Cores
+Category: Libretro RetroArch Cores
 -----------------------
+![Libretro Cores](https://modmyclassic.com/wp-content/uploads/2020/06/LibRetroNeoCoresSmall.png)
 
-=== FB Alpha Core for RetroArch ===
+=== Fbalpha Core for RetroArch ===
 
-Module adds support for Arcade (various)
+Module adds support for Fbalpha
 
 Available executables and arguments to run Core:
 - /bin/fba <rom> <clover_args>
 - /bin/fba2016 <rom> <clover_args>
 
+These cores are automatically built against the latest LibRetro Source code. You can find nightly builds and stable builds [here](https://modmyclassic.com/hmodcores)
+
 Core by Libretro
 
-Libretro Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://discordapp.com/invite/8gygsrw)
+Libretro 'Neo' Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://modmyclassic.com/discord)
 
 -----------------------
 
-display_name = "Arcade (FB Alpha)"
-authors = "Team FB Alpha"
-supported_extensions = "iso|zip|7z"
-corename = "FB Alpha"
-manufacturer = "Various"
-categories = "Emulator"
-systemname = "Arcade (various)"
-systemid = "fb_alpha"
-database = "FB Alpha - Arcade Games"
-database_match_archive_member = "true"
-license = "Non-commercial"
-permissions = ""
-display_version = "v0.2.97.43"
-supports_no_game = "false"
-notes = "(!) The BIOS files must be inside the ROM directory.|"

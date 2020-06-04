@@ -1,35 +1,57 @@
 -----------------------
-Name: The 3DO Company - 3DO (4DO)
+Name: 4do
 Creator: Libretro
-Category: Official RetroArch Cores
+Category: Libretro RetroArch Cores
 -----------------------
+![Libretro Cores](https://modmyclassic.com/wp-content/uploads/2020/06/LibRetroNeoCoresSmall.png)
 
-=== 4DO Core for RetroArch ===
+=== 4do Core for RetroArch ===
 
-Module adds support for the Panasonic 3DO
+Module adds support for 4do
 
 Available executables and arguments to run Core:
 - /bin/4do <rom> <clover_args>
 
+These cores are automatically built against the latest LibRetro Source code. You can find nightly builds and stable builds [here](https://modmyclassic.com/hmodcores)
+
 Core by Libretro
 
-Libretro Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://discordapp.com/invite/8gygsrw)
+Libretro 'Neo' Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://modmyclassic.com/discord)
 
 -----------------------
 
+# Software Information
 display_name = "The 3DO Company - 3DO (4DO)"
 authors = "JohnnyDude|FreeDO team|trapexit"
 supported_extensions = "iso|bin|chd|cue"
 corename = "4DO"
-manufacturer = "Various"
 categories = "Emulator"
-systemname = "3DO"
-systemid = "3do"
-database = "The 3DO Company - 3DO"
 license = "LGPL/Non-commercial"
 permissions = ""
 display_version = "v1.3.2.4+"
-supports_no_game = "true"
+
+# Hardware Information
+manufacturer = "Panasonic|GoldStar|Sanyo"
+systemname = "3DO"
+systemid = "3do"
+
+# Libretro Features
+database = "The 3DO Company - 3DO"
+supports_no_game = "false"
+savestate = "true"
+savestate_features = "basic"
+cheats = "false"
+input_descriptors = "true"
+memory_descriptors = "false"
+libretro_saves = "true"
+core_options = "true"
+load_subsystem = "false"
+hw_render = "false"
+needs_fullpath = "true"
+disk_control = "false"
+is_experimental = "false"
+
+# BIOS/Firmware
 firmware_count = 10
 
 firmware0_desc = "panafz1.bin (Panasonic FZ-1 BIOS)"

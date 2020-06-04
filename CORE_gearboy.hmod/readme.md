@@ -1,19 +1,22 @@
 -----------------------
-Name: Nintendo - Game Boy / Color (Gearboy)
+Name: Gearboy
 Creator: Libretro
-Category: Official RetroArch Cores
+Category: Libretro RetroArch Cores
 -----------------------
+![Libretro Cores](https://modmyclassic.com/wp-content/uploads/2020/06/LibRetroNeoCoresSmall.png)
 
 === Gearboy Core for RetroArch ===
 
-Module adds support for Nintendo Game Boy / Game Boy Colour
+Module adds support for Gearboy
 
 Available executables and arguments to run Core:
 - /bin/gearboy <rom> <clover_args>
 
+These cores are automatically built against the latest LibRetro Source code. You can find nightly builds and stable builds [here](https://modmyclassic.com/hmodcores)
+
 Core by Libretro
 
-Libretro Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://discordapp.com/invite/8gygsrw)
+Libretro 'Neo' Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://modmyclassic.com/discord)
 
 -----------------------
 
@@ -28,5 +31,5 @@ systemid = "game_boy"
 database = "Nintendo - Game Boy|Nintendo - Game Boy Color"
 license = "GPLv3"
 permissions = ""
-display_version = "2.6.0"
+display_version = "3.1.1"
 supports_no_game = "false"

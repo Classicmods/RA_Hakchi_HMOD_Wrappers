@@ -1,12 +1,13 @@
 -----------------------
-Name: Sega - MS/GG/MD/CD (Genesis Plus GX)
+Name: Genesis_plus_gx
 Creator: Libretro
-Category: Official RetroArch Cores
+Category: Libretro RetroArch Cores
 -----------------------
+![Libretro Cores](https://modmyclassic.com/wp-content/uploads/2020/06/LibRetroNeoCoresSmall.png)
 
-=== Genesis Plus GX Core for RetroArch ===
+=== Genesis_plus_gx Core for RetroArch ===
 
-Module adds support for Sega - Game Gear|Sega - Master System - Mark III|Sega - Mega-CD - Sega CD|Sega - Mega Drive - Genesis|Sega - PICO|Sega - SG-1000
+Module adds support for Genesis_plus_gx
 
 Available executables and arguments to run Core:
 - /bin/genesis-plus-gx <rom> <clover_args>
@@ -17,9 +18,11 @@ Available executables and arguments to run Core:
 - /bin/sg <rom> <clover_args>
 - /bin/sms <rom> <clover_args>
 
+These cores are automatically built against the latest LibRetro Source code. You can find nightly builds and stable builds [here](https://modmyclassic.com/hmodcores)
+
 Core by Libretro
 
-Libretro Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://discordapp.com/invite/8gygsrw)
+Libretro 'Neo' Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://modmyclassic.com/discord)
 
 -----------------------
 
@@ -42,13 +45,13 @@ firmware0_path = "bios_MD.bin"
 firmware0_opt = "true"
 firmware1_desc = "bios_CD_E.bin (MegaCD EU BIOS)"
 firmware1_path = "bios_CD_E.bin"
-firmware1_opt = "false"
+firmware1_opt = "true"
 firmware2_desc = "bios_CD_U.bin (SegaCD US BIOS)"
 firmware2_path = "bios_CD_U.bin"
-firmware2_opt = "false"
+firmware2_opt = "true"
 firmware3_desc = "bios_CD_J.bin (MegaCD JP BIOS)"
 firmware3_path = "bios_CD_J.bin"
-firmware3_opt = "false"
+firmware3_opt = "true"
 firmware4_desc = "bios_E.sms (MasterSystem EU BIOS)"
 firmware4_path = "bios_E.sms"
 firmware4_opt = "true"

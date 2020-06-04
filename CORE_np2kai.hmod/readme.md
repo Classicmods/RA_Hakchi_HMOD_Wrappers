@@ -1,8 +1,9 @@
 -----------------------
 Name: Np2kai
 Creator: Libretro
-Category: Official RetroArch Cores
+Category: Libretro RetroArch Cores
 -----------------------
+![Libretro Cores](https://modmyclassic.com/wp-content/uploads/2020/06/LibRetroNeoCoresSmall.png)
 
 === Np2kai Core for RetroArch ===
 
@@ -12,9 +13,11 @@ Available executables and arguments to run Core:
 - /bin/np2kai <rom> <clover_args>
 - /bin/pc98 <rom> <clover_args>
 
+These cores are automatically built against the latest LibRetro Source code. You can find nightly builds and stable builds [here](https://modmyclassic.com/hmodcores)
+
 Core by Libretro
 
-Libretro Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://discordapp.com/invite/8gygsrw)
+Libretro 'Neo' Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://modmyclassic.com/discord)
 
 -----------------------
 
@@ -31,20 +34,28 @@ license = "MIT"
 permissions = ""
 display_version = "0.86"
 supports_no_game = "false"
+
+# BIOS/Firmware
 firmware_count = 5
-firmware0_desc = "font.bmp (needed to display text)"
+
+firmware0_desc = "np2kai/font.bmp (needed to display text)"
 firmware0_path = "np2kai/font.bmp"
 firmware0_opt = "true"
-firmware1_desc = "FONT.ROM (alt font file)"
+
+firmware1_desc = "np2kai/FONT.ROM (alt font file)"
 firmware1_path = "np2kai/FONT.ROM"
 firmware1_opt = "true"
-firmware2_desc = "bios.rom"
+
+firmware2_desc = "np2kai/bios.rom"
 firmware2_path = "np2kai/bios.rom"
 firmware2_opt = "true"
-firmware3_desc = "itf.rom"
+
+firmware3_desc = "np2kai/itf.rom"
 firmware3_path = "np2kai/itf.rom"
 firmware3_opt = "true"
-firmware4_desc = "sound.rom"
+
+firmware4_desc = "np2kai/sound.rom"
 firmware4_path = "np2kai/sound.rom"
 firmware4_opt = "true"
-notes = " YM2608 RYTHM samples present in the np2kai folder will be used:|2608_bd.wav, 2608_sd.wav, 2608_top.wav, 2608_hh.wav, 2608_tom.wav, 2608_rim.wav|JOY2KEY buttons mapping: A=x B=z X=space Y=lctrl|L=backspace R=rshift SELECT=escape START=return|Keep 'end' key down when booting for machine options.|Many games need GDC set as 2.5Mhz there."
+
+notes = "YM2608 RYTHM samples present in the np2kai folder will be used:|2608_bd.wav, 2608_sd.wav, 2608_top.wav, 2608_hh.wav, 2608_tom.wav, 2608_rim.wav|JOY2KEY buttons mapping: A=x B=z X=space Y=lctrl|L=backspace R=rshift SELECT=escape START=return|Keep 'end' key down when booting for machine options.|Many games need GDC set as 2.5Mhz there."

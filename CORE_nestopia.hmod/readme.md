@@ -1,19 +1,22 @@
 -----------------------
 Name: Nestopia
 Creator: Libretro
-Category: Official RetroArch Cores
+Category: Libretro RetroArch Cores
 -----------------------
+![Libretro Cores](https://modmyclassic.com/wp-content/uploads/2020/06/LibRetroNeoCoresSmall.png)
 
 === Nestopia Core for RetroArch ===
 
-Module adds support for Famicom / Nintendo Entertainment System
+Module adds support for Nestopia
 
 Available executables and arguments to run Core:
 - /bin/nestopia <rom> <clover_args>
 
+These cores are automatically built against the latest LibRetro Source code. You can find nightly builds and stable builds [here](https://modmyclassic.com/hmodcores)
+
 Core by Libretro
 
-Libretro Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://discordapp.com/invite/8gygsrw)
+Libretro 'Neo' Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://modmyclassic.com/discord)
 
 -----------------------
 
@@ -33,9 +36,8 @@ supports_no_game = "false"
 firmware_count = 2
 firmware0_desc = "NstDatabase.xml (Nestopia UE Database file)"
 firmware0_path = "NstDatabase.xml"
-firmware0_opt = "false"
+firmware0_opt = "true"
 firmware1_desc = "disksys.rom (Family Computer Disk System BIOS)"
 firmware1_path = "disksys.rom"
-firmware1_opt = "false"
+firmware1_opt = "true"
 notes = "Get NstDatabase.xml from https://github.com/0ldsk00l/nestopia|(!) disksys.rom (md5): ca30b50f880eb660a320674ed365ef7a|Press Retropad L1 to switch disk side."
-

@@ -1,35 +1,59 @@
 -----------------------
-Name: Nintendo - DS (DeSmuME)
+Name: Desmume
 Creator: Libretro
-Category: Official RetroArch Cores
+Category: Libretro RetroArch Cores
 -----------------------
+![Libretro Cores](https://modmyclassic.com/wp-content/uploads/2020/06/LibRetroNeoCoresSmall.png)
 
-=== Nintendo DS Core for RetroArch ===
+=== Desmume Core for RetroArch ===
 
-Module adds support for Nintendo DS
+Module adds support for Desmume
 
 Available executables and arguments to run Core:
 - /bin/desmume <rom> <clover_args>
 
+These cores are automatically built against the latest LibRetro Source code. You can find nightly builds and stable builds [here](https://modmyclassic.com/hmodcores)
+
 Core by Libretro
 
-Libretro Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://discordapp.com/invite/8gygsrw)
+Libretro 'Neo' Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://modmyclassic.com/discord)
 
 -----------------------
 
+# Software Information
 display_name = "Nintendo - DS (DeSmuME)"
 authors = "YopYop156|Zeromus"
 supported_extensions = "nds|bin"
 corename = "DeSmuME"
-manufacturer = "Nintendo"
-categories = "Emulator"
-systemname = "Nintendo DS"
-systemid = "nds"
-database = "Nintendo - Nintendo DS|Nintendo - Nintendo DS Decrypted|Nintendo - Nintendo DS (Download Play)"
 license = "GPLv2"
 permissions = ""
 display_version = "SVN"
+categories = "Emulator"
+
+# Hardware Information
+manufacturer = "Nintendo"
+systemname = "DS"
+systemid = "nds"
+
+# Libretro Features
+database = "Nintendo - Nintendo DS|Nintendo - Nintendo DS Decrypted|Nintendo - Nintendo DS (Download Play)"
 supports_no_game = "false"
+savestate = "true"
+savestate_features = "serialized"
+cheats = "true"
+input_descriptors = "true"
+memory_descriptors = "false"
+libretro_saves = "true"
+core_options = "true"
+core_options_version = "1.0"
+load_subsystem = "false"
+hw_render = "true"
+required_hw_api = "OpenGL >= 2.0"
+needs_fullpath = "true"
+disk_control = "false"
+is_experimental = "false"
+
+# BIOS/Firmware
 firmware_count = 3
 firmware0_desc = "firmware.bin (NDS Firmware)"
 firmware0_path = "firmware.bin"

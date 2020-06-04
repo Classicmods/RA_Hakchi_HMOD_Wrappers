@@ -1,20 +1,23 @@
 -----------------------
-Name: NEC - PC Engine / CD (Beetle PCE FAST)
+Name: Mednafen_pce_fast
 Creator: Libretro
-Category: Official RetroArch Cores
+Category: Libretro RetroArch Cores
 -----------------------
+![Libretro Cores](https://modmyclassic.com/wp-content/uploads/2020/06/LibRetroNeoCoresSmall.png)
 
-=== Mednafen PCE FAST Core for RetroArch ===
+=== Mednafen_pce_fast Core for RetroArch ===
 
-Module adds support for NEC - PC Engine / CD 
+Module adds support for Mednafen_pce_fast
 
 Available executables and arguments to run Core:
 - /bin/pce <rom> <clover_args>
 - /bin/pcecd <rom> <clover_args>
 
+These cores are automatically built against the latest LibRetro Source code. You can find nightly builds and stable builds [here](https://modmyclassic.com/hmodcores)
+
 Core by Libretro
 
-Libretro Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://discordapp.com/invite/8gygsrw)
+Libretro 'Neo' Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://modmyclassic.com/discord)
 
 -----------------------
 
@@ -34,7 +37,7 @@ supports_no_game = "false"
 firmware_count = 4
 firmware0_desc = "syscard3.pce (PCE-CD BIOS)"
 firmware0_path = "syscard3.pce"
-firmware0_opt = "false"
+firmware0_opt = "true"
 firmware1_desc = "syscard2.pce (PCE-CD BIOS)"
 firmware1_path = "syscard2.pce"
 firmware1_opt = "true"

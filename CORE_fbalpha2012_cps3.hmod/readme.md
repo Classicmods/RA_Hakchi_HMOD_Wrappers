@@ -1,19 +1,22 @@
 -----------------------
-Name: Arcade (FB Alpha 2012 CPS-3)
+Name: Fbalpha2012_cps3
 Creator: Libretro
-Category: Official RetroArch Cores
+Category: Libretro RetroArch Cores
 -----------------------
+![Libretro Cores](https://modmyclassic.com/wp-content/uploads/2020/06/LibRetroNeoCoresSmall.png)
 
-=== FB Alpha 2012 CPS-3 Core for RetroArch ===
+=== Fbalpha2012_cps3 Core for RetroArch ===
 
-Module adds support for CP System 3
+Module adds support for Fbalpha2012_cps3
 
 Available executables and arguments to run Core:
 - /bin/cps3 <rom> <clover_args>
 
+These cores are automatically built against the latest LibRetro Source code. You can find nightly builds and stable builds [here](https://modmyclassic.com/hmodcores)
+
 Core by Libretro
 
-Libretro Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://discordapp.com/invite/8gygsrw)
+Libretro 'Neo' Classic platform maintained by [ModMyClassic](https://modmyclassic.com) [Discord](https://modmyclassic.com/discord)
 
 -----------------------
 
@@ -30,3 +33,4 @@ permissions = ""
 display_version = "v0.2.97.29"
 supports_no_game = "false"
 notes = "(!) The BIOS files must be inside the ROM directory."
+description = "'FB Alpha 2012 CPS-3' is compatible with FB Alpha v0.2.97.29 ROM sets. This core variant is for CPS-3 games only."
