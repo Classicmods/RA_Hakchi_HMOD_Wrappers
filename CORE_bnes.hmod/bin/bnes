@@ -1,2 +1,2 @@
 #!/bin/sh
-exec retroarch-clover bnes "$@"
+exec retroarch-clover BNES "$@"
